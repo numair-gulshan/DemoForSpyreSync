@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "399982801502",
+    "project_id": "demoforspyresync",
+    "storage_bucket": "demoforspyresync.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399982801502:android:d7933dbb84ada93542facf",
+        "android_client_info": {
+          "package_name": "com.demoforspyresync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399982801502-4islm39l97mpmgv6kf7kc64f8g50vjf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB29RwCytoirMK9ccUmlEHq2gdbuxpNQzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399982801502-4islm39l97mpmgv6kf7kc64f8g50vjf9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "399982801502-0b1gdt8hqo2k66p0j2904i5a5pfpeivg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.DemoForSpyreSync"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
